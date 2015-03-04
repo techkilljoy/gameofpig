@@ -1,0 +1,10 @@
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\bin\Debug\GameOfPig.exe.config
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\bin\Debug\GameOfPig.exe
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\bin\Debug\GameOfPig.pdb
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\bin\Debug\GameOfPig.xml
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.Form1.resources
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.Resources.resources
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.vbproj.GenerateResource.Cache
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.exe
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.xml
+h:\visual studio 2013\Projects\GameOfPig\GameOfPig\obj\Debug\GameOfPig.pdb
